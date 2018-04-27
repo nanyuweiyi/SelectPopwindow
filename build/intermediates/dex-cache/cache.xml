@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/admin/Downloads/MultiSelectPopWindow-master/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/Users/admin/Downloads/MultiSelectPopWindow-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.1.1_5437f0c0c693fed9ccb9ac194aca0e80cee75097.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/Downloads/MultiSelectPopWindow-master/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/Users/admin/Downloads/MultiSelectPopWindow-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.1.1_a9933af37e745cc8eac16c5204a98203c4b09f76.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/Downloads/MultiSelectPopWindow-master/app/build/intermediates/exploded-aar/com.android.support/transition/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="/Users/admin/Downloads/MultiSelectPopWindow-master/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.1.1_02cfc6506b618c37551afd885d9d7e234b158481.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/Downloads/MultiSelectPopWindow-master/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/Users/admin/Downloads/MultiSelectPopWindow-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.1.1_724b511aeb8f7478c70fe2ae1386589972cf26e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/Downloads/MultiSelectPopWindow-master/app/build/intermediates/exploded-aar/com.android.support/design/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="/Users/admin/Downloads/MultiSelectPopWindow-master/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.1.1_cd84bf5648e31e7e8897432d12d3a20b4f4bdfc4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/Downloads/MultiSelectPopWindow-master/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/Users/admin/Downloads/MultiSelectPopWindow-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.1.1_c2d67ec8007b1f1445c407ad426c6f0a7510c7d0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/Downloads/MultiSelectPopWindow-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/Users/admin/Downloads/MultiSelectPopWindow-master/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.1.1_ca59bf48720bcad4a7107f7542b2715c085c534b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/Downloads/MultiSelectPopWindow-master/app/build/intermediates/exploded-aar/com.github.Jay-Goo/library/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="62a5d8f4a06694912263c9e268cc0df45b08e22b">
+        <dex dex="/Users/admin/Downloads/MultiSelectPopWindow-master/app/build/intermediates/pre-dexed/debug/com.github.Jay-Goo-library-unspecified_08c3ff46509d4a7fa50e4adeeeff61602002ce35.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/Downloads/MultiSelectPopWindow-master/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/Users/admin/Downloads/MultiSelectPopWindow-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.1.1_53e056e2a3dc889ce4bacd817d6bca5eb43fb20c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/Downloads/MultiSelectPopWindow-master/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="/Users/admin/Downloads/MultiSelectPopWindow-master/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.1.1_44e553fc0d3f6da656b65e95ae1f05fb09fda92a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/Downloads/MultiSelectPopWindow-master/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/Users/admin/Downloads/MultiSelectPopWindow-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.1.1_1a41b8b76ee1971e3d01b2c84f12d39198554ec0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/Downloads/MultiSelectPopWindow-master/app/build/intermediates/exploded-aar/com.davidecirillo.multichoicerecyclerview/multichoicerecyclerview/2.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e34d7fdc841f9e7035159a7367829e76c2b9bdbc">
+        <dex dex="/Users/admin/Downloads/MultiSelectPopWindow-master/app/build/intermediates/pre-dexed/debug/com.davidecirillo.multichoicerecyclerview-multichoicerecyclerview-2.0.0_e6e94207d11e6f6afc1ca4c4b6f25f5b21d6d247.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/Users/admin/Downloads/MultiSelectPopWindow-master/app/build/intermediates/pre-dexed/debug/support-annotations-25.1.1_60095a853b03757172e716d73d8b7c4b07168c6a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/Downloads/MultiSelectPopWindow-master/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/Users/admin/Downloads/MultiSelectPopWindow-master/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.1.1_a76aa4ffaf88a9d69ced9954d9a1c780349f3e96.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/Downloads/MultiSelectPopWindow-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/admin/Downloads/MultiSelectPopWindow-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.1.1_3accb8d6e2b8c31df91c8cba23f471f8be2981a3.jar" />
+    </item>
+
+</items>
