@@ -1,7 +1,7 @@
 
 # MultiSelectPopWindow
 
-![image](https://raw.githubusercontent.com/nanyuweiyi/SelectPopwindow/develop/intro.gif)
+![](./intro.gif)
 
 ### 用法
 多选和单选用法几班一样
