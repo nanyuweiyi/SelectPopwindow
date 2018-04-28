@@ -1,6 +1,8 @@
 
 # MultiSelectPopWindow
 
+![image](https://github.com/nanyuweiyi/SelectPopwindow/intro.gif)
+
 ### 用法
 多选和单选用法几班一样
 
